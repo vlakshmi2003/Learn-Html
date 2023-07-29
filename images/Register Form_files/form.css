@@ -1,0 +1,58 @@
+body{
+    min-height: 100vh;
+    background-color:skyblue;
+    background-size: cover;
+    position: relative;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+form{
+    width: 400px;
+    height: 500px;
+    background-color: white;
+    border-radius: 5px;
+    background-position: center;
+    margin:2% auto;
+    align-items: center;
+    padding: 20px 20px 30px;
+}
+h2{
+    text-align: center;
+    color:rgb(58, 56, 56) ;
+    font-size: lar;
+    font-style: inherit ;
+    
+}
+.form-control{
+    width: 70%;
+    padding: 20px;
+    border-left:0px ;
+    border-right: 0px;
+    border-top: 0px;
+    border-bottom: 1px solid #999 ;
+    outline: none;
+    background: transparent;
+    margin-left: -6px;
+}
+.btn{
+    text-align: center;
+    width: 250px;
+    margin-top: 30px;
+    border: none;
+    background-color:skyblue;
+
+}
+.form-icon{
+    border-bottom:  1px solid #999 ;
+    padding: 15px 15px 20px;
+    border-right: 2cm;
+}
+.image-1{
+    position: absolute;
+    bottom: 0px;
+    left: 20%;
+    z-index: 99;
+    float: left;padding: 0px 10px 0px;
+}
+
+
